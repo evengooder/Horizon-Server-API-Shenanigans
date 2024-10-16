@@ -6,7 +6,7 @@ This repository includes Python scripts that automate Horizon administration tas
 Each script represents a seperate administrative task originally demonstrated within the Horizon Auomation subfolder of the collection.  These 4 tasks are:<br/>
 
 1.)  Assign User To Desktop Pool<br/> 
-2.)  Add VM To Manual Desktop Pool
-3.)  Message User And Disconnect 
-4.)  Kill Specific App In Session
+2.)  Add VM To Manual Desktop Pool <br/>
+3.)  Message User And Disconnect <br/>
+4.)  Kill Specific App In Session <br/> 
 
