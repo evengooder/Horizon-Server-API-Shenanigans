@@ -8,4 +8,6 @@ Each script in this respository represents a seperate administrative task origin
 2.)  Add VM To Manual Desktop Pool <br/>
 3.)  Message User And Disconnect <br/>
 4.)  Kill Specific App In Session <br/> 
+<br/>
 
+To run the scripts you'll need to populate variables listed under their section, "Critical variables required for execution."  
